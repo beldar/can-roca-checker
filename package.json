@@ -1,0 +1,16 @@
+{
+  "name": "can-roca-checker",
+  "version": "1.0.0",
+  "description": "Checks when there's availability on Can Roca restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marti Planellas",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.6.7",
+    "nodemailer-sparkpost-transport": "^2.1.0",
+    "puppeteer": "^1.6.0"
+  }
+}
